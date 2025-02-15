@@ -1,6 +1,6 @@
 # CS50 Cybersecurity - Lecture 1: Securing Data
 
-## 📚 Table of Contents
+## Table of Contents
 - [CS50 Cybersecurity - Lecture 1: Securing Data](#cs50-cybersecurity---lecture-1-securing-data)
   - [📚 Table of Contents](#-table-of-contents)
   - [🌟 Introduction](#-introduction)
